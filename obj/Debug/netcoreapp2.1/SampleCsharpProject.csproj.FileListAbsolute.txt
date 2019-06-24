@@ -1,0 +1,14 @@
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\bin\Debug\netcoreapp2.1\Configurations\Environment.config
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\bin\Debug\netcoreapp2.1\SampleCsharpProject.deps.json
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\bin\Debug\netcoreapp2.1\SampleCsharpProject.runtimeconfig.json
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\bin\Debug\netcoreapp2.1\SampleCsharpProject.runtimeconfig.dev.json
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\bin\Debug\netcoreapp2.1\SampleCsharpProject.dll
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\bin\Debug\netcoreapp2.1\SampleCsharpProject.pdb
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\obj\Debug\netcoreapp2.1\SampleCsharpProject.csproj.CoreCompileInputs.cache
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\obj\Debug\netcoreapp2.1\SampleCsharpProject.AssemblyInfoInputs.cache
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\obj\Debug\netcoreapp2.1\SampleCsharpProject.AssemblyInfo.cs
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\obj\Debug\netcoreapp2.1\SampleCsharpProject.dll
+C:\Users\Naveen\source\repos\SampleCsharpProject\SampleCsharpProject\obj\Debug\netcoreapp2.1\SampleCsharpProject.pdb
