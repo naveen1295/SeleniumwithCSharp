@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Naveen\\source\\repos\\SampleCsharpProject\\SampleCsharpProject\\Seleniumwithcsharp.csproj": {}
+    "F:\\git\\SeleniumwithCSharp\\Seleniumwithcsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Naveen\\source\\repos\\SampleCsharpProject\\SampleCsharpProject\\Seleniumwithcsharp.csproj": {
+    "F:\\git\\SeleniumwithCSharp\\Seleniumwithcsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Naveen\\source\\repos\\SampleCsharpProject\\SampleCsharpProject\\Seleniumwithcsharp.csproj",
+        "projectUniqueName": "F:\\git\\SeleniumwithCSharp\\Seleniumwithcsharp.csproj",
         "projectName": "Seleniumwithcsharp",
-        "projectPath": "C:\\Users\\Naveen\\source\\repos\\SampleCsharpProject\\SampleCsharpProject\\Seleniumwithcsharp.csproj",
+        "projectPath": "F:\\git\\SeleniumwithCSharp\\Seleniumwithcsharp.csproj",
         "packagesPath": "C:\\Users\\Naveen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Naveen\\source\\repos\\SampleCsharpProject\\SampleCsharpProject\\obj\\",
+        "outputPath": "F:\\git\\SeleniumwithCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -81,6 +81,10 @@
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[4.5.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
             }
           },
           "imports": [

@@ -1,0 +1,15 @@
+F:\git\SeleniumwithCSharp\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+F:\git\SeleniumwithCSharp\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+F:\git\SeleniumwithCSharp\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+F:\git\SeleniumwithCSharp\bin\Debug\netcoreapp2.1\Configurations\Environment.config
+F:\git\SeleniumwithCSharp\bin\Debug\netcoreapp2.1\Seleniumwithcsharp.deps.json
+F:\git\SeleniumwithCSharp\bin\Debug\netcoreapp2.1\Seleniumwithcsharp.runtimeconfig.json
+F:\git\SeleniumwithCSharp\bin\Debug\netcoreapp2.1\Seleniumwithcsharp.runtimeconfig.dev.json
+F:\git\SeleniumwithCSharp\bin\Debug\netcoreapp2.1\Seleniumwithcsharp.dll
+F:\git\SeleniumwithCSharp\bin\Debug\netcoreapp2.1\Seleniumwithcsharp.pdb
+F:\git\SeleniumwithCSharp\obj\Debug\netcoreapp2.1\Seleniumwithcsharp.csprojAssemblyReference.cache
+F:\git\SeleniumwithCSharp\obj\Debug\netcoreapp2.1\Seleniumwithcsharp.csproj.CoreCompileInputs.cache
+F:\git\SeleniumwithCSharp\obj\Debug\netcoreapp2.1\Seleniumwithcsharp.AssemblyInfoInputs.cache
+F:\git\SeleniumwithCSharp\obj\Debug\netcoreapp2.1\Seleniumwithcsharp.AssemblyInfo.cs
+F:\git\SeleniumwithCSharp\obj\Debug\netcoreapp2.1\Seleniumwithcsharp.dll
+F:\git\SeleniumwithCSharp\obj\Debug\netcoreapp2.1\Seleniumwithcsharp.pdb

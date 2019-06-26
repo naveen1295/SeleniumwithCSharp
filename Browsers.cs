@@ -9,5 +9,10 @@ namespace SampleCsharpProject
     public class Browsers
     {
         private static readonly IWebDriver webdriver;
+
+        internal static void Init()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
